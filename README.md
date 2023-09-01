@@ -2,7 +2,7 @@
 ```
 admin@example.com
 ```
-password
+# password
 ```
 qwerty
 ```
